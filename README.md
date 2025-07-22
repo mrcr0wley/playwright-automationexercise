@@ -35,7 +35,18 @@ npx playwright show-report
 
 Тесты автоматически запускаются через GitHub Actions при пуше в репозиторий.
 
-### 6. Работа с Git
+### 6. Покрытые модули
+
+- [x] Login
+- [ ] Logout
+- [ ] Signup
+- [ ] Cart
+- [ ] Checkout
+- [ ] Products
+- [ ] Profile
+- [ ] Orders
+
+### 7. Работа с Git
 
 ```
 git add .
