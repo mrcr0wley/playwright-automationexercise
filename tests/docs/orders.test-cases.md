@@ -1,7 +1,7 @@
 # Orders Test Cases
 
-1. Order appears after successful checkout
-2. Orders page is accessible from the header when logged in
+1. Orders page is accessible from the header when logged in
+2. Order appears after successful checkout
 3. Order details (product name, price, quantity, etc.) are displayed correctly
 4. Each order has a unique ID and date
 5. Total amount matches the sum of all products in the order
